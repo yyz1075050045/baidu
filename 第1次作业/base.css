@@ -1,0 +1,105 @@
+a:link {color:#000000;}
+a:hover{color:#000099}
+a:visited {color:#000000;}
+#body{
+    height: 100%;
+}
+#id{
+    z-index: 2;
+    color: #fff;
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 19px 0 5px;
+    padding: 0 96px 0 0;
+}
+#wrapper{
+    min-width: 810px;
+    height: 100%;
+    min-height: 600px;
+    position: relative;
+}
+#link{
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 19px 0 5px;
+    padding: 0 96px 0 0;
+}
+#link a.pf{
+    position: absolute;
+    bottom: 0px;
+    right: 10px;
+    width: 60px;
+    height: 23px;
+    color: #fff;
+    background: #38f;
+    line-height: 24px;
+    font-size: 13px;
+    text-align: center;
+    border-bottom: 1px solid #38f;
+    margin-left: 19px;
+    margin-right: 2px;
+}
+#lg{
+    width: 100%;
+    float: center;
+    position: relative;
+    right: -40%;
+    bottom: -100px;
+}
+#input{
+    position: absolute;
+    left: -125px;
+    height: 51px;
+}
+#input input.cf{
+    color: #fff;
+    background: #38f;
+    text-align: center;
+    margin-left: 0;
+    margin-right: 2px;
+    border: 0;
+    height: 31px;
+}
+.code-item{
+    margin-top:160px ;
+    position: relative;
+    right: -80px;
+}
+.title{
+    font-size:17px;
+    margin-bottom: 0;
+}
+.sub-title{
+    font-size: 15px;
+    color: gray;
+    position: relative;
+    right: 12px;
+    margin-top: 0;
+}
+.u1{
+    position: relative;
+    right: 100px;
+    font-size: 12px;
+}
+.u2{
+    position: relative;
+    right: 195px;
+    margin-top: 5px;
+}
+.other .u1 a{
+    margin-left: 25px;
+    color: gray;
+}
+.other .u2{
+    color: gray;
+    font-size: 12px;
+}
+.other .u2 a{
+    color: gray;
+    font-size: 12px;
+}
+.other .u2 #jgwab{
+    margin-left: 19px;
+}
